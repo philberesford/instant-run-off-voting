@@ -17,7 +17,7 @@ The position of the Preference in the CSV corresponds to the Candidate at the sa
 2. The Preference for each Candidate is unique for each Voter.
 
 ## Usage
-The output from [Microsoft Forms](https://forms.office.com/) can output the values of single questions in a suitable format for use by this script.
+[Microsoft Forms](https://forms.office.com/) can output the values of single questions in a suitable format for use by this script.
 
 ## Dependencies
 [pyrankvote](https://pypi.org/project/pyrankvote/)
